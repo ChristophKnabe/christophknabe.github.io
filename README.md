@@ -1,2 +1,2 @@
 # christophknabe.github.io
-The GitHub pages repository of Christoph Knabe at https://christophknabe.github.io 
+Repository for my GitHub pages at https://christophknabe.github.io 
